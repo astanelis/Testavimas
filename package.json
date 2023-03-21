@@ -1,0 +1,14 @@
+{
+  "name": "Starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/astanelis/Testavimas.git",
+  "author": "astanelis <stanelisa@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "scripts": {
+  "test": "jest"
+  }
+}
