@@ -6,9 +6,12 @@
   "author": "astanelis <stanelisa@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "jest": "^29.5.0"
+    "jest": "^29.5.0",
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.59.3"
   },
   "scripts": {
-  "test": "jest"
+    "test": "jest",
+    "dev": "parcel index.html"
   }
 }
